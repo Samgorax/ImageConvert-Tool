@@ -8,3 +8,8 @@ venv/
 .env
 .DS_Store
 Thumbs.db
+
+# Temporary pytest artifacts
+.pytest-m4-focused/
+.pytest-m4-full/
+.pytest-m4-tmp/
