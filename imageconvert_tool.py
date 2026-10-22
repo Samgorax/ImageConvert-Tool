@@ -2,7 +2,7 @@ import os
 import shutil
 import subprocess
 import tkinter as tk
-from tkinter import ttk, filedialog, messagebox
+from tkinter import filedialog, messagebox, ttk
 
 APP_TITLE = "ImageConvert Tool"
 # Available formats depend on the ImageMagick build and its delegates.
